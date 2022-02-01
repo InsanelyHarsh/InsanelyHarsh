@@ -26,6 +26,17 @@
   - Working with **Gesture Recognizer**
   - Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
   
+  
+# Goal for 2022
+### Goal is to make 12 full Apps this year. Each with unique concept & Requiring new skill/ Technology. (1/2/2022)
+
+- [x] C++ Basics
+- [ ] Learning Data Structure & Algorithm
+- [ ] System Design
+- [ ] Combine & MVVM-C Pattern
+- [ ] Core Animation, Core Graphics
+- [ ] Databases (Learning to work with databases & integrate)
+
  <!---
 InsanelyHarsh/InsanelyHarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
