@@ -10,15 +10,12 @@
 ----
 
 - ## Languages
+
   - Swift
   - C++
   - Python
 - ## Skills
 - 
-
-
-
-
   - Good Knowledge of **Swift**,**C++** Language
   - **SwiftUI & UIKit** (Without Storyboard, Programmatically)
   - **MVVM,** **MVC** & **Coordinator** Pattern
@@ -32,6 +29,7 @@
   - Familiar with Apple’s **framework** like MapKit, WKWebKit, Notification, CoreData Comfortable working with Third-Party SDK(Facebook Login, Firebase) and         Integrating with App
   - Working with **Gesture Recognizer**
   - Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
+  - **Xcode**
   - **Version Control**(Git)
   
   
