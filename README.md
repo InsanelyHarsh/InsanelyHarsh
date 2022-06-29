@@ -37,13 +37,25 @@
 ### Goal is to make 12 full Apps this year. Each with unique concept & Requiring new skill/ Technology. (1/2/2022)
 
 - [x] C++ Basics
-- [ ] Learning Data Structure & Algorithm
+- [X] Learning Data Structure & Algorithm (In Progress: https://leetcode.com/InsanelyHarsh/)
 - [ ] System Design
 - [ ] Test Driven Development
 - [ ] Core Animation, Core Graphics
 - [ ] Databases (Learning to work with databases & integrate)
 ----
 
+### DSA Progress
+- [X] String,Array,Vector
+- [X] Linked List
+- [X] Stack
+- [X] Queue
+- [X] Recursion
+- [X] Binary Tree
+- [X] Binary Search Tree
+- [X] Selection, Bubble, Insertion Sort
+- [ ] Merge & Quick Sort
+- [ ] Searching Algorithms
+----
 ### [Working On](https://github.com/InsanelyHarsh/C-PlusPlus-DSA-Basics/blob/main/README.md)
 
  <!---
