@@ -38,9 +38,11 @@
 
 - [x] C++ Basics
 - [X] Learning Data Structure & Algorithm (In Progress: https://leetcode.com/InsanelyHarsh/)
+- [X] SOLID
+- [ ] Design Patterns
 - [ ] System Design
 - [ ] Test Driven Development
-- [ ] Core Animation, Core Graphics
+- [X] Core Animation, Core Graphics
 - [ ] Databases (Learning to work with databases & integrate)
 ----
 
@@ -53,8 +55,9 @@
 - [X] Binary Tree
 - [X] Binary Search Tree
 - [X] Selection, Bubble, Insertion Sort
-- [ ] Merge & Quick Sort
-- [ ] Searching Algorithms
+- [X] Merge & Quick Sort
+- [X] Searching Algorithms
+- [ ] Dynamic Programming(In Progress)
 ----
 ### [Working On](https://github.com/InsanelyHarsh/C-PlusPlus-DSA-Basics/blob/main/README.md)
 
