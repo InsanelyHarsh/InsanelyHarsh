@@ -59,7 +59,7 @@
 - [X] Searching Algorithms
 - [ ] Dynamic Programming(In Progress)
 ----
-### [Working On](https://github.com/InsanelyHarsh/C-PlusPlus-DSA-Basics/blob/main/README.md)
+### [Working On](https://github.com/InsanelyHarsh/PersonalFinanceApp)
 
  <!---
 InsanelyHarsh/InsanelyHarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
