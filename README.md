@@ -1,27 +1,30 @@
 # 💫 About Me:
-Hello World!<br>I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuing by BTech from<br>IIIT Jabalpur Institute. 
-- <br>I love building things, anything in Tech could excite me. 
-- <br>I have been doing iOS Development for the past 1.5 years. Also explored <br>Machine Learning, Web Scraping, somewhat of Web & Android Development.<br>
-- I worked as iOS Developer Intern at Plaxonic during my summer break. Also contributed<br>to Open Source projects.
-- <br>Recently Me & my team of 6, filed our Fabrication Project for a patent. It is a new, robust<br>way of taking Attendance using Mobiles without any internet services.
-- -<br>Currently, I am learning Golang and exploring Backend development. Looking forward to <br>collaborating on new exciting Projects.
+Hello World!<br> I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuing by BTech from IIIT Jabalpur Institute. 
+- I love building things, anything in Tech could excite me. 
+- I have been doing iOS Development for the past 1.5 years. Also explored Machine Learning, Web Scraping, somewhat of Web & Android Development.
+- I worked as iOS Developer Intern at Plaxonic during my summer break. Also contributed to Open Source projects.
+- Recently Me & my team of 6, filed our Fabrication Project for a patent. It is a new, robust way of taking Attendance using Mobiles without any internet services.
+- Currently, I am learning Golang and exploring Backend development. Looking forward to collaborating on new exciting Projects.
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-## 🌐 Socials:
+-----
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/InsanelyHarsh#9215) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amiharsh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insanelyharsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amiharsh_) 
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+----
 
-# Languages
+## Languages
   - Swift
   - C++
   - Python
   - Golang
  
-# Skills
+## Skills
 - Good Knowledge of **Swift**,**C++** Language
 - **SwiftUI & UIKit** (Without Storyboard, Programmatically)
 - **MVVM,** **MVC** & **Coordinator** Pattern
@@ -38,7 +41,7 @@ Hello World!<br>I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuin
 - **Xcode**
 - **Version Control**(Git)
 
-
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=insanelyharsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=insanelyharsh&theme=dark&hide_border=false)<br/>
@@ -46,9 +49,6 @@ Hello World!<br>I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuin
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=insanelyharsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
