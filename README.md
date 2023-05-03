@@ -1,5 +1,35 @@
 # 💫 About Me:
-Hello World!<br>I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuing by BTech from<br>IIIT Jabalpur Institute. <br>I love building things, anything in Tech could excite me. <br>I have been doing iOS Development for the past 1.5 years. Also explored <br>Machine Learning, Web Scraping, somewhat of Web & Android Development.<br>I worked as iOS Developer Intern at Plaxonic during my summer break. Also contributed<br>to Open Source projects.<br>Recently Me & my team of 6, filed our Fabrication Project for a patent. It is a new, robust<br>way of taking Attendance using Mobiles without any internet services.<br>Currently, I am learning Golang and exploring Backend development. Looking forward to <br>collaborating on new exciting Projects.
+Hello World!<br>I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuing by BTech from<br>IIIT Jabalpur Institute. 
+- <br>I love building things, anything in Tech could excite me. 
+- <br>I have been doing iOS Development for the past 1.5 years. Also explored <br>Machine Learning, Web Scraping, somewhat of Web & Android Development.<br>
+- I worked as iOS Developer Intern at Plaxonic during my summer break. Also contributed<br>to Open Source projects.
+- <br>Recently Me & my team of 6, filed our Fabrication Project for a patent. It is a new, robust<br>way of taking Attendance using Mobiles without any internet services.
+- -<br>Currently, I am learning Golang and exploring Backend development. Looking forward to <br>collaborating on new exciting Projects.
+
+
+## Languages
+
+  - Swift
+  - C++
+  - Python
+  - Golang
+## Skills
+- 
+  - Good Knowledge of **Swift**,**C++** Language
+  - **SwiftUI & UIKit** (Without Storyboard, Programmatically)
+  - **MVVM,** **MVC** & **Coordinator** Pattern
+  - **Delegate Protocols** Communication Pattern
+  - Comfortable using **REST Api** & Third-Party Libraries.
+  - **ARC** & **Memory Management**
+  - Using **Good Coding Principles** (like: SOLID in Code Base, DI)
+  - Knowledge of **Combine Framework**
+  -Structured **Concurrency** using **Async Await**
+  - **WebSocket Integration** (Still Learning)
+  - Familiar with Apple’s **framework** like MapKit, WKWebKit, Notification, CoreData Comfortable working with Third-Party SDK(Facebook Login, Firebase) and         Integrating with App
+  - Working with **Gesture Recognizer**
+  - Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
+  - **Xcode**
+  - **Version Control**(Git)
 
 
 ## 🌐 Socials:
@@ -29,29 +59,6 @@ Hello World!<br>I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuin
 
 ![stats](https://github-readme-stats.vercel.app/api?username=insanelyharsh&&show_icons=true&title_color=ffffff&icon_color=90ee90&text_color=daf7dc&bg_color=151515
 )
-- ## Languages
-
-  - Swift
-  - C++
-  - Python
-  - Golang
-- ## Skills
-- 
-  - Good Knowledge of **Swift**,**C++** Language
-  - **SwiftUI & UIKit** (Without Storyboard, Programmatically)
-  - **MVVM,** **MVC** & **Coordinator** Pattern
-  - **Delegate Protocols** Communication Pattern
-  - Comfortable using **REST Api** & Third-Party Libraries.
-  - **ARC** & **Memory Management**
-  - Using **Good Coding Principles** (like: SOLID in Code Base, DI)
-  - Knowledge of **Combine Framework**
-  -Structured **Concurrency** using **Async Await**
-  - **WebSocket Integration** (Still Learning)
-  - Familiar with Apple’s **framework** like MapKit, WKWebKit, Notification, CoreData Comfortable working with Third-Party SDK(Facebook Login, Firebase) and         Integrating with App
-  - Working with **Gesture Recognizer**
-  - Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
-  - **Xcode**
-  - **Version Control**(Git)
 
  <!---
 InsanelyHarsh/InsanelyHarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
