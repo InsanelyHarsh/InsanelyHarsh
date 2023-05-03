@@ -1,12 +1,30 @@
-# New Profile All the Projects will be pushed shortly
+# 💫 About Me:
+Hello World!<br>I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuing by BTech from<br>IIIT Jabalpur Institute. <br>I love building things, anything in Tech could excite me. <br>I have been doing iOS Development for the past 1.5 years. Also explored <br>Machine Learning, Web Scraping, somewhat of Web & Android Development.<br>I worked as iOS Developer Intern at Plaxonic during my summer break. Also contributed<br>to Open Source projects.<br>Recently Me & my team of 6, filed our Fabrication Project for a patent. It is a new, robust<br>way of taking Attendance using Mobiles without any internet services.<br>Currently, I am learning Golang and exploring Backend development. Looking forward to <br>collaborating on new exciting Projects.
 
-- 👋 Hi, I’m @InsanelyHarsh
-- 👀 I’m interested in Tech,Books,Travelling
-- 🌱 I’m currently learning Algorithms (C++)
-- 💞️ I’m looking to collaborate on Swift,SwiftUI,UIKit
-- 📫 How to reach me @Harshydv001
-- 📱 iOS Developer
 
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/insanelyharsh) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/InsanelyHarsh#9215) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amiharsh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insanelyharsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amiharsh_) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=insanelyharsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=insanelyharsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=insanelyharsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=insanelyharsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=insanelyharsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ----
 
 ![stats](https://github-readme-stats.vercel.app/api?username=insanelyharsh&&show_icons=true&title_color=ffffff&icon_color=90ee90&text_color=daf7dc&bg_color=151515
@@ -16,6 +34,7 @@
   - Swift
   - C++
   - Python
+  - Golang
 - ## Skills
 - 
   - Good Knowledge of **Swift**,**C++** Language
@@ -33,35 +52,6 @@
   - Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
   - **Xcode**
   - **Version Control**(Git)
-
-  
-# Goal for 2022
-### Goal is to make 12 full Apps this year. Each with unique concept & Requiring new skill/ Technology. (1/2/2022)
-
-- [x] C++ Basics
-- [X] Learning Data Structure & Algorithm (In Progress: https://leetcode.com/InsanelyHarsh/)
-- [X] SOLID
-- [ ] Design Patterns
-- [ ] System Design
-- [ ] Test Driven Development
-- [X] Core Animation, Core Graphics
-- [ ] Databases (Learning to work with databases & integrate)
-----
-
-### DSA Progress
-- [X] String,Array,Vector
-- [X] Linked List
-- [X] Stack
-- [X] Queue
-- [X] Recursion
-- [X] Binary Tree
-- [X] Binary Search Tree
-- [X] Selection, Bubble, Insertion Sort
-- [X] Merge & Quick Sort
-- [X] Searching Algorithms
-- [ ] Dynamic Programming(In Progress)
-----
-### [Working On](https://github.com/InsanelyHarsh/PersonalFinanceApp)
 
  <!---
 InsanelyHarsh/InsanelyHarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
