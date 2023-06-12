@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hello World!<br> I am Harsh Mohan Yadav, Pre-Final Year Undergrad Student pursuing by BTech from IIIT Jabalpur Institute. 
+Hello World!<br> I am Harsh Mohan Yadav, Final Year Undergrad Student pursuing by BTech from IIIT Jabalpur Institute. 
 - I love building things, anything in Tech could excite me. 
 - I have been doing iOS Development for the past 1.5 years. Also explored Machine Learning, Web Scraping, somewhat of Web & Android Development.
-- I worked as iOS Developer Intern at Plaxonic during my summer break. Also contributed to Open Source projects.
+- I worked as iOS Developer Intern at Plaxonic during my last summer break & Curie Microeletronics. 
+- Also contributed to Open Source projects.
 - Recently Me & my team of 6, filed our Fabrication Project for a patent. It is a new, robust way of taking Attendance using Mobiles without any internet services.
 - Currently, I am learning Golang and exploring Backend development. Looking forward to collaborating on new exciting Projects.
 
