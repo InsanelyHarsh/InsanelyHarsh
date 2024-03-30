@@ -2,10 +2,10 @@
 Hello World!<br> I am Harsh Mohan Yadav, Final Year Undergrad Student pursuing by BTech from IIIT Jabalpur Institute. 
 - I love building things, anything in Tech could excite me. 
 - I have been doing iOS Development for the past 1.5 years. Also explored Machine Learning, Web Scraping, somewhat of Web & Android Development.
-- I worked as iOS Developer Intern at Plaxonic during my last summer break & Curie Microeletronics. 
+- I'm Currently working as **Engineering Intern-iOS at Zuddl** and previously I worked as **iOS Developer Intern at Plaxonic** during my last summer break & **Curie Microelectronics**. 
 - Also contributed to Open Source projects.
-- Recently Me & my team of 6, filed our Fabrication Project for a patent. It is a new, robust way of taking Attendance using Mobiles without any internet services.
-- Currently, I am learning Golang and exploring Backend development. Looking forward to collaborating on new exciting Projects.
+- Recently My team of 6, filed our Fabrication Project for a patent. It is a new, robust way to take Attendance using Mobiles without internet services.
+- Currently, I'm exploring **Backend development with Golang** and Looking forward to collaborating on new exciting Projects.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -21,10 +21,9 @@ Hello World!<br> I am Harsh Mohan Yadav, Final Year Undergrad Student pursuing b
 
 ## Languages
   - Swift
-  - Golang
   - C++
-  - Java
-  - MySQL
+  - Python
+  - Golang
  
 ## Skills
 - Good Knowledge of **Swift**,**C++** Language
@@ -33,14 +32,14 @@ Hello World!<br> I am Harsh Mohan Yadav, Final Year Undergrad Student pursuing b
 - **Delegate Protocols** Communication Pattern
 - Comfortable using **REST Api** & Third-Party Libraries.
 - **ARC** & **Memory Management**
-- Using **Good Coding Principles** (like: SOLID in Code Base, DI)
+- Using **Good Coding Principles** (like SOLID in Code Base, DI)
 - Knowledge of **Combine Framework**
 -Structured **Concurrency** using **Async Await**
-- **WebSocket Integration**
+- **WebSocket Integration** (Still Learning)
 - Familiar with Apple’s **framework** like MapKit, WKWebKit, Notification, CoreData Comfortable working with Third-Party SDK(Facebook Login, Firebase) and         Integrating with App
 - Working with **Gesture Recognizer**
 - Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
-- **Xcode**, VS Code, Docker
+- **Xcode**
 - **Version Control**(Git)
 
 ---
