@@ -21,9 +21,10 @@ Hello World!<br> I am Harsh Mohan Yadav, Final Year Undergrad Student pursuing b
 
 ## Languages
   - Swift
-  - C++
-  - Python
   - Golang
+  - C++
+  - Java
+  - MySQL
  
 ## Skills
 - Good Knowledge of **Swift**,**C++** Language
@@ -35,11 +36,11 @@ Hello World!<br> I am Harsh Mohan Yadav, Final Year Undergrad Student pursuing b
 - Using **Good Coding Principles** (like: SOLID in Code Base, DI)
 - Knowledge of **Combine Framework**
 -Structured **Concurrency** using **Async Await**
-- **WebSocket Integration** (Still Learning)
+- **WebSocket Integration**
 - Familiar with Apple’s **framework** like MapKit, WKWebKit, Notification, CoreData Comfortable working with Third-Party SDK(Facebook Login, Firebase) and         Integrating with App
 - Working with **Gesture Recognizer**
 - Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
-- **Xcode**
+- **Xcode**, VS Code, Docker
 - **Version Control**(Git)
 
 ---
