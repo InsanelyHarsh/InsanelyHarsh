@@ -1,69 +1,14 @@
-# 💫 About Me:
-Hello World!<br> I am Harsh Mohan Yadav, Final Year Undergrad Student pursuing by BTech from IIIT Jabalpur Institute. 
-- I love building things, anything in Tech could excite me. 
-- I have been doing iOS Development for the past 1.5 years. Also explored Machine Learning, Web Scraping, somewhat of Web & Android Development.
-- I'm Currently working as **Engineering Intern-iOS at Zuddl** and previously I worked as **iOS Developer Intern at Plaxonic** during my last summer break & **Curie Microelectronics**. 
-- Also contributed to Open Source projects.
-- Recently My team of 6, filed our Fabrication Project for a patent. It is a new, robust way to take Attendance using Mobiles without internet services.
-- Currently, I'm exploring **Backend development with Golang** and Looking forward to collaborating on new exciting Projects.
+### Hi, I'm Harsh 👋
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Backend Software Engineer building scalable, distributed systems in Go.
 
------
-### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9215) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amiharsh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/insanelyharsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amiharsh_) 
+- 🔭 Currently working on payment, auth, and RMS services for a live trading platform at **Zanskar Securities**
+- 🛠️ Previously built high-performance backend services at **Samespace**, and shipped native iOS apps during internships at **Zuddl**, **Curie Microelectronics**, and **Plaxonic**
+- 🎓 B.Tech in Electronics & Communication Engineering, PDPM IIIT Jabalpur
+- 🌐 [insanelyharsh.com](https://insanelyharsh.com) · [blog](https://blogs.insanelyharsh.com)
 
+### Tech Stack
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ScyllaDB](https://img.shields.io/badge/-ScyllaDB-000000?style=flat-square&logo=scylladb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![REST](https://img.shields.io/badge/-REST-5A5A5A?style=flat-square) ![HTTP](https://img.shields.io/badge/-HTTP-5A5A5A?style=flat-square) ![TCP](https://img.shields.io/badge/-TCP-5A5A5A?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-----
-
-## Languages
-  - Swift
-  - C++
-  - Python
-  - Golang
- 
-## Skills
-- Good Knowledge of **Swift**,**C++** Language
-- **SwiftUI & UIKit** (Without Storyboard, Programmatically)
-- **MVVM,** **MVC** & **Coordinator** Pattern
-- **Delegate Protocols** Communication Pattern
-- Comfortable using **REST Api** & Third-Party Libraries.
-- **ARC** & **Memory Management**
-- Using **Good Coding Principles** (like SOLID in Code Base, DI)
-- Knowledge of **Combine Framework**
--Structured **Concurrency** using **Async Await**
-- **WebSocket Integration** (Still Learning)
-- Familiar with Apple’s **framework** like MapKit, WKWebKit, Notification, CoreData Comfortable working with Third-Party SDK(Facebook Login, Firebase) and         Integrating with App
-- Working with **Gesture Recognizer**
-- Familiar with: **Core Graphics**, **Core Animations**, **CALayer** (Still Learning)
-- **Xcode**
-- **Version Control**(Git)
-
----
-[![](https://visitcount.itsvg.in/api?id=insanelyharsh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=insanelyharsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=insanelyharsh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=insanelyharsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=insanelyharsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> -->
-
----
-
-<!-- ![stats](https://github-readme-stats.vercel.app/api?username=insanelyharsh&&show_icons=true&title_color=ffffff&icon_color=90ee90&text_color=daf7dc&bg_color=151515
-) -->
-
- <!---
-InsanelyHarsh/InsanelyHarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/insanelyharsh) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/insanelyharsh) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amiharsh_)
